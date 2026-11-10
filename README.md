@@ -1,4 +1,5 @@
 Xi · Google AI Pro 2Y Offer Injector
+<img width="776" height="403" alt="image" src="https://github.com/user-attachments/assets/f32ac027-3919-47f1-b4b6-c232473dc319" />
 
 📌 Project Overview
 This is a Chrome extension for claiming 2 years of Google One and 2 years of Gemini AI Pro for free. By rewriting offer parameters in the subscription checkout flow, it activates trial subscription offers and enables tiered stacking.
