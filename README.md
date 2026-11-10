@@ -35,6 +35,7 @@ Enable "Developer mode" in the upper right corner.
 Click "Load unpacked" in the upper left corner and select the extension directory in this project.
 
 After the extension is installed, confirm that Xi · Google AI Pro 2Y Offer Injector is enabled in the list.
+<img width="776" height="403" alt="image" src="https://github.com/user-attachments/assets/e36da614-0b37-4051-9520-4be2f292595a" />
 
 Step 2: Open the Google One Plans Page and Select an Injection Tier
 Visit in your browser: https://one.google.com/plans
@@ -48,6 +49,8 @@ For the first subscription, check: "Tier 1 · 12 months (first subscription)"
 After selecting, refresh the page. The lower right corner of the page will show Injection mounted · 12 months.
 
 Click Get discount under the AI Pro card on the page.
+<img width="1024" height="823" alt="image translated (3)" src="https://github.com/user-attachments/assets/70c7ed8b-50a6-48a1-b8b0-2a9cbe27198c" />
+<img width="399" height="614" alt="image translated (2)" src="https://github.com/user-attachments/assets/c25624f8-9826-4940-8a05-4574a1a3c337" />
 
 Step 3: Check the Anti-Accidental-Charge Guard and Confirm Zero-Dollar Card Binding
 A Google Play checkout popup will appear. The extension has a built-in "Checkout Popup Price Guard":
@@ -59,9 +62,11 @@ A Google Play checkout popup will appear. The extension has a built-in "Checkout
 Bind your Visa / Mastercard and enter the tax-free ZIP code (97201).
 
 Strictly verify that the checkout details show $0.00, then click confirm subscription.
+<img width="569" height="1272" alt="image translated (4)" src="https://github.com/user-attachments/assets/5c096b84-809d-4451-8200-9d1d9ece11f2" />
 
 Step 4: Confirm the Subscription Is Active
 After the subscription succeeds, open Google Play Order History.
+<img width="1024" height="261" alt="image translated (5)" src="https://github.com/user-attachments/assets/4ba0c556-18bc-423b-aac1-6475705fb303" />
 
 Check the latest order record. It should show that Google AI Pro was successfully ordered, with a billing amount of $0.00.
 
@@ -74,6 +79,7 @@ Open Google Play Subscription Management or "Subscriptions & services" in the Go
 Find the item you just subscribed to and click "Cancel subscription".
 
 After cancellation, the 1 USD pre-authorization hold from card binding will receive a refund/void notice in about 2 minutes.
+<img width="1024" height="261" alt="image translated (6)" src="https://github.com/user-attachments/assets/90f65ece-fe30-4a41-9f9c-0b15f8d44c9d" />
 
 💡 Multi-Tier Stacking Instructions
 The extension supports tiered injection:
